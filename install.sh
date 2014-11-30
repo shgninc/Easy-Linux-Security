@@ -7,6 +7,8 @@
 # For questions, comments, and support, please visit:
 # www.servermonkeys.com
 #
+# http://servermonkeys.com/projects/els/
+#
 # Easy Linux Security (ELS), v. 1.7.0
 #
 ########################################################################################
